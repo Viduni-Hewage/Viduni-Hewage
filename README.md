@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available available [here.](https://github.com/Viduni-Hewage) 
 
-- 📝 I sometimes write articles on [Medium platform.](https://github.com/Viduni-Hewage) 
+- 📝 I sometimes write articles on [Medium platform.](https://medium.com/@viduhewage02) 
 
 - 📫 How to reach me viduhewage23@gmail.com
 
