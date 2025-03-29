@@ -1,3 +1,6 @@
+<p align= "center">
+  <img src="https://github.com/Viduni-Hewage/Viduni-Hewage/raw/main/defaultProfile.png" width="170">
+</p>
 <h1 align="center">Hi 👋, I'm Viduni Hewage</h1>
 <h3 align="center">frontend developer</h3>
 
