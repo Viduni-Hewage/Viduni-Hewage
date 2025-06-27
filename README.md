@@ -2,7 +2,7 @@
   <img src="https://github.com/Viduni-Hewage/Viduni-Hewage/raw/main/defaultProfile.png" width="170">
 </p>
 <h1 align="center">Hi 👋, I'm Viduni Hewage</h1>
-<h3 align="center">FullStack Developer | Software Engineering Undergraduate</h3>
+<h3 align="center">Full Stack Developer  |  Software Engineering Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viduni-hewage&label=Profile%20views&color=0e75b6&style=flat" alt="viduni-hewage" /> </p>
 
